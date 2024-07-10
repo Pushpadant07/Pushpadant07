@@ -1,6 +1,6 @@
 ***Hello, I'm Pushpadant M Gobaje .***
 
-<img align="right" alt="data science" width="400" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2021/04/fb_image-6.gif">
+<img align="right" alt="data science" width="450" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2021/04/fb_image-6.gif">
 
 I'm an aspiring data Analyst from India</h3>
 
