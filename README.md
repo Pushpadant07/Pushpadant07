@@ -1,10 +1,16 @@
-<h3 align="center">I'm an aspiring data Analyst from India</h3>
+<p align="center"><img width="80%" alt="Hello, I'm Pushpadant M G. I do data analysis!" src="./assets/readme-header.png" /></p>
+
+<br />
+
+<img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
+
+I'm an aspiring data Analyst from India</h3>
 
 - 🌱 I’m currently learning **SQL, Power BI and Advanced Excel**
 
 - 📫 How to reach me **pushpadant123@gmail.com**
   
-- ⚡ Fun fact - **A Biomedical Engineer Turned Data Scientist Turned Data Analyst**
+- ⚡ Fun fact - **A Biomedical Engineer Turned Data Scientist then Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
