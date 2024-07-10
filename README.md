@@ -4,7 +4,6 @@
 
 I'm an aspiring data Analyst from India</h3>
 
-
 - 🌱 I’m currently learning **SQL, Power BI and Advanced Excel**
 
 - 📫 How to reach me **pushpadant123@gmail.com**
