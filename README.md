@@ -1,6 +1,3 @@
-<p align="center"><img width="80%" alt="Hello, I'm Pushpadant M G. I do data analysis!" src="./assets/readme-header.png" /></p>
-
-<br />
 
 <img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
