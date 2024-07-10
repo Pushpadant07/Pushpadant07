@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning **SQL, Power BI and Advanced Excel**
 
 - 📫 How to reach me **pushpadant123@gmail.com**
+  
+- ⚡ Fun fact - **A Biomedical Engineer Turned Data Scientist Turned Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
