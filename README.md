@@ -9,7 +9,7 @@ I'm an aspiring data Analyst from India</h3>
 
 - 📫 How to reach me **pushpadant123@gmail.com**
   
-- ⚡ Fun fact - **A Biomedical Engineer Turned Data Scientist then Data Analyst**
+- ⚡ Fun fact - **A Biomedical Engineer Turned Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
